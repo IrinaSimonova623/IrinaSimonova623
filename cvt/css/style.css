@@ -4,6 +4,10 @@
     font-family: 'Rubik', sans-serif;
 }
 
+body{
+    background-color: #CC221B;
+}
+
 .wraper {
     overflow: hidden;
     display: flex;
